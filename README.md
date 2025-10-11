@@ -41,9 +41,10 @@ Through this project, I learned how to:
 | Personality | Description |
 |--------------|-------------|
 | 🦁 **Lion** | Bold, confident, and a natural leader. |
+| 🐱 **Cat** | Independent, curious, and creative. |
 | 🐇 **Rabbit** | Gentle, caring, and empathetic. |
 | 🐢 **Turtle** | Calm, thoughtful, and patient. |
-| 🐱 **Cat** | Independent, curious, and creative. |
+
 
 ---
 
@@ -51,7 +52,7 @@ Through this project, I learned how to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/PersonalityQuizApp.git
+   git clone https://github.com/aradhya0507/Personality-Quiz-Guided-Project-in-Swift.git
 2.	Open the project in Xcode.
 3.	Run the app on the iOS Simulator or your physical device.
 
