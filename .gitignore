@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+build/
+DerivedData/
+*.xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+/.build/
+/Packages/
+/Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# User-specific files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# Archives
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Other system files
+Thumbs.db
+ehthumbs.db
+Icon?
