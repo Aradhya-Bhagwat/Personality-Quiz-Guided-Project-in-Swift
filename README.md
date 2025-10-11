@@ -1,4 +1,4 @@
-# 🦁 Personality Quiz App (Swift)
+# 🦁 Personality Quiz App 
 
 A simple and fun iOS app built using **Swift** and **UIKit** that determines a user’s personality type — **Lion**, **Rabbit**, **Turtle**, or **Cat** — based on their responses to a short quiz.
 
