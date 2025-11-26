@@ -52,7 +52,7 @@ Through this project, I learned how to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aradhya0507/Personality-Quiz-Guided-Project-in-Swift.git
+   git clone https://github.com/Aradhya-Bhagwat/Personality-Quiz-Guided-Project-in-Swift.git
 2.	Open the project in Xcode.
 3.	Run the app on the iOS Simulator or your physical device.
 
